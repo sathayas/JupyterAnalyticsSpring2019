@@ -1,6 +1,8 @@
 docker build -t python-analytics-bundle .
 
-docker run -it --rm -p 8888:8888 python-analytics-bundle
+docker run -it --rm -p 8888:8888 \
+-v /Users/sh45474/Documents/Teaching/Analytics_Spring_2019/Notes:/tmp/Notes \
+python-analytics-bundle
 
 
 
