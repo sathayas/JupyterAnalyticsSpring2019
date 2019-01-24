@@ -8,7 +8,10 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
   * [Overview](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Intro.ipynb)
   * [Docker & Docker Image](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Docker.ipynb)
   * [Jupyter notebook](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Jupyter.ipynb)
+* [PCA](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/PCA.ipynb) (1/24-1/29)
   
-  
+***
+ 
 * [Docker source](https://github.com/sathayas/DockerSourceLibrary/edit/master/Analytics): Python plus a number of analytics libraries including scikit-learn, networkx, NLTK (with the book corpus), and wordcloud. Also contains Graphviz.
    * [Docker image](https://cloud.docker.com/u/sathayas/repository/docker/sathayas/python-analytics-bundle) available from Docker hub
+* [Git & GitHub tutorial](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2018/blob/master/Git.ipynb)
