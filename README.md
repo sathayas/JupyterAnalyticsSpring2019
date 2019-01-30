@@ -9,6 +9,8 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
   * [Docker & Docker Image](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Docker.ipynb)
   * [Jupyter notebook](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Jupyter.ipynb)
 * [PCA](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/PCA.ipynb) (1/24-1/29)
+* [Factor analysis](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/FactorAnalysis.ipynb) (1/31)
+* [ICA](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/ICA.ipynb) (1/31)
   
 ***
  
