@@ -12,7 +12,8 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
 * [Factor analysis](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/FactorAnalysis.ipynb) (1/31)
 * [ICA](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/ICA.ipynb) (1/31)
 * [Clustering](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Clustering.ipynb) (2/5 - 2/7)
-  
+ * [Linear discriminat analysis (LDA)](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/LinDisc.ipynb) (2/12)
+ 
 ***
  
 * [Docker source](https://github.com/sathayas/DockerSourceLibrary/edit/master/Analytics): Python plus a number of analytics libraries including scikit-learn, networkx, NLTK (with the book corpus), and wordcloud. Also contains Graphviz.
