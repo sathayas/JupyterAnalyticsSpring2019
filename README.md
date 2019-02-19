@@ -14,6 +14,7 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
 * [Clustering](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Clustering.ipynb) (2/5 - 2/7)
 * [Linear discriminat analysis (LDA)](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/LinDisc.ipynb) (2/12)
 * [Logistic regression](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Logistic.ipynb) (2/14)
+* [Support vector machine (SVM)](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/SVM.ipynb) (2/19 - 2-21)
  
 ***
  
