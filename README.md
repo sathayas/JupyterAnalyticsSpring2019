@@ -16,7 +16,8 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
 * [Logistic regression](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Logistic.ipynb) (2/14)
 * [Support vector machine (SVM)](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/SVM.ipynb) (2/19 - 2/21)
 * [k nearest neighbors (kNN)](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/NearestNeighbor.ipynb) (2/26)
- 
+* [Decision trees](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/DecisionTree.ipynb) (2/28 - 3/5)
+
 ***
  
 * [Docker source](https://github.com/sathayas/DockerSourceLibrary/edit/master/Analytics): Python plus a number of analytics libraries including scikit-learn, networkx, NLTK (with the book corpus), and wordcloud. Also contains Graphviz.
