@@ -17,6 +17,7 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
 * [Support vector machine (SVM)](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/SVM.ipynb) (2/19 - 2/21)
 * [k nearest neighbors (kNN)](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/NearestNeighbor.ipynb) (2/26)
 * [Decision trees](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/DecisionTree.ipynb) (2/28 - 3/5)
+* [Cross validation](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/CrossValidation.ipynb) (3/7)
 
 ***
  
