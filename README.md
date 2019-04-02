@@ -20,6 +20,7 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
 * [Cross validation](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/CrossValidation.ipynb) (3/7)
 * [Network basics](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/NetworkBasics.ipynb) (3/26)
 * [Network metrics](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/NetworkStats.ipynb) (3/28)
+* [Centrality measures](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/NetworkCentral.ipynb) (4/2 - 4/4)
 
 ***
  
