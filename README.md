@@ -28,6 +28,7 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
 * **Natural language processing**
   * [Text processing](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/TextProcessing.ipynb) (4/16 - 4/18)
   * [Corpora & WordNet](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Corpora.ipynb) (4/23)
+  * [Word cloud](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/WordCloud.ipynb) (4/25)
 
 
 ***
