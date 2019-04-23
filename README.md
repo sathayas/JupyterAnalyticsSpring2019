@@ -27,7 +27,7 @@ Repository for course notes for the Analytics Class, Spring 2018. All documents 
   * [Newtork communities](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/NetworkCommunity.ipynb) (4/9 - 4/11)
 * **Natural language processing**
   * [Text processing](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/TextProcessing.ipynb) (4/16 - 4/18)
- * [Corpora & WordNet](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Corpora.ipynb) (4/23)
+  * [Corpora & WordNet](https://nbviewer.jupyter.org/github/sathayas/JupyterAnalyticsSpring2019/blob/master/Corpora.ipynb) (4/23)
 
 
 ***
